@@ -1,5 +1,5 @@
 {
-  "name": "yup",
+  "name": "yuppay",
   "version": "1.0.0",
   "description": "Node library for YUP payments",
   "main": "index.js",
